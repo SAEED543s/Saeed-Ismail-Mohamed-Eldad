@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Logistics Robot - Video Studio",
+  "description": "Photorealistic cinematic video sequence, interactive simulation, and video generator for the autonomous hospital logistics robot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
